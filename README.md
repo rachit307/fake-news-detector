@@ -17,7 +17,6 @@ NLTK
 
 Dataset
 
-The dataset used for this project is a combination of two datasets:
 
 https://www.kaggle.com/competitions/fake-news/data?select=train.csv
 
